@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://weekly-chan-times.firebaseapp.com/posts/vol_2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://weekly-chan-times.firebaseapp.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weekly-chan-times.firebaseapp.com/posts/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weekly-chan-times.firebaseapp.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://weekly-chan-times.firebaseapp.com/posts/vol_1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://weekly-chan-times.firebaseapp.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

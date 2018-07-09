@@ -1,0 +1,170 @@
+html {
+	background-color: rgba(255,255,250,0.8);
+}
+
+body {
+	/*max-width: 575px;*/
+	max-width: 575px;
+	margin: 0 auto;
+	font-family: 'Catamaran', sans-serif;
+	text-align: justify;
+
+	/* 3D pop layout */
+	border-radius: 4px;
+	/*background-color: #FFF;*/
+}
+
+a {
+	color: #222;
+	border-bottom: 1px solid rgba(0,0,0,0.1);
+	text-decoration: none;
+}
+
+hr {
+	width: 500px;
+}
+
+h1 {
+	font-family: 'Catamaran', sans-serif;
+	font-weight: bold;
+	font-style: normal;
+	text-align: center;
+	letter-spacing: 1.2;
+}
+
+h1 + h2 {
+	margin-top: -20px;
+}
+
+h2 {
+	text-align: center;
+	opacity: 0.7;
+	font-size: 1em;
+}
+
+img {
+	box-sizing: border-box;
+	height: auto;
+}
+
+blockquote{
+  display:block;
+  background: #fff;
+  padding: 10px 10px 10px 40px;
+  margin: 0 0 10px;
+  position: relative;
+  
+  /*Font*/
+  font-family: 'Catamaran', sans-serif;
+  color: #888;
+
+  /*Box Shadow - (Optional)*/
+  -moz-box-shadow: 2px 2px 15px #ccc;
+  -webkit-box-shadow: 2px 2px 15px #ccc;
+  box-shadow: 2px 2px 15px #ccc;
+
+  /*Borders - (Optional)*/
+  border-left-style: solid;
+  border-left-width: 15px;
+  border-right-style: solid;
+  border-right-width: 2px;    
+}
+
+.circleImage {
+	display: block;
+	margin: 0 auto;
+	border-radius: 50%;
+	border: 2px solid #F8F000;
+	margin-top: 28px;
+}
+
+p {
+	line-spacing: 1.5px;
+	color: #555;
+}
+
+footer > p {
+	text-align: center;
+	opacity: 0.5;
+}
+
+.footerlink:hover {
+	transition: 0.3s;
+	background-color: #F8F000;
+}
+
+.you {
+	background-color: #F8F000;
+	padding: 4px;
+}
+
+.siteTitle {
+	text-align: center;
+	font-size: 48px;
+	letter-spacing: 2.5;
+	font-weight: 700;
+	font-family: 'Garamond', serif;
+	font-variant: small-caps;
+}
+
+.homeTitle {
+	padding-top: 40px;
+}
+
+.postContent {
+	box-sizing: border-box;
+}
+
+.postContent > p {
+	padding-top: 15px;
+}
+
+.postContent, #postBox {
+	border-top: 0.8px dotted #555;
+	border-bottom: 0.8px dotted #555;
+}
+
+.siteTitle a {
+	border-bottom: none;
+}
+
+.singleline {
+	text-align: center;
+	padding-top: 12px;
+	opacity: 0.6;
+	letter-spacing: 1.2;
+	font-size: 0.9em;
+}
+
+.singleline > a:hover {
+	transition: 0.3s;
+	opacity: 0.8;
+}
+
+.subheading {
+	text-align: center;
+	font-size: 1.2em;
+}
+
+.highlight {
+	background-color: #F8F000;
+	color; #333;
+}
+
+a.postWeight:hover {
+	transition: 0.3s;
+	opacity: 0.8;
+	background-color: #F8F000;
+	letter-spacing: 1.1;
+}
+
+#post {
+	padding: 10px;
+	text-align: center;
+	list-style-type: none;
+}
+
+#postBox {
+	padding-top: 20px;
+}
+

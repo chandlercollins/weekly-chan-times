@@ -1,0 +1,21 @@
+<html>
+{{ partialCached "header.html" .}}
+<body>
+	<article class="navbar">
+		<h1 class="siteTitle homeTitle"><a href="{{.Site.BaseURL}}">Weekly Chan Times</span></a></h1>
+		<h2 class="subheading">A weekly dive into my psyche</h2>
+	</article>
+	<div id="postBox">
+			<!-- Ranges through content/post/*.md -->
+			{{ range first 10 .Data.Pages }}
+				<li id="post">
+					<!-- small CSS geometric icon here -->
+					<i class="fa fa-angle-double-up" style="font-size: 20px; padding: 5px;"></i><br>
+					<a class="postWeight" href="{{.URL}}"><00{{ .Weight }}></a>
+					<p class="postTitle">{{ .Title }}</p>
+				</li>
+			{{ end }}
+	</div>
+</body>
+{{ partialCached "footer.html" .}}
+</html>

@@ -1,0 +1,6 @@
+baseURL = "https://weekly-chan-times.firebaseapp.com/"
+languageCode = "en-us"
+title = "Weekly Chan Times"
+
+[params]
+	author = "Chandler Collins"

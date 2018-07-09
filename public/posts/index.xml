@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Weekly Chan Times</title>
+    <link>https://weekly-chan-times.firebaseapp.com/posts/</link>
+    <description>Recent content in Posts on Weekly Chan Times</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://weekly-chan-times.firebaseapp.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The ChanTimes - Vol. 2</title>
+      <link>https://weekly-chan-times.firebaseapp.com/posts/vol_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://weekly-chan-times.firebaseapp.com/posts/vol_2/</guid>
+      <description>In Search of Negative Space Vol. 2: July 1 - July 8 I&amp;rsquo;m a workaholic and only feel satisfied when I&amp;rsquo;m creating &amp;hellip; There&amp;rsquo;s no way I can keep working at this unsustainable pace.
+My mind has been vacillating over these thoughts for the last week. I wake up each morning at 6:40 am, slide out of bed and shower by 7, head downstairs to pack camera gear for the day at 7:30, set up AV equipment for check-in at 8:30, and then work non-stop through the day until I can escape work by 9:00 at night (at the earliest).</description>
+    </item>
+    
+    <item>
+      <title>The ChanTimes - Vol. 1</title>
+      <link>https://weekly-chan-times.firebaseapp.com/posts/vol_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://weekly-chan-times.firebaseapp.com/posts/vol_1/</guid>
+      <description>Car Wrecks and Mood Swings Vol. 1 - June 24 - June 31 : 2018 Sometimes life kicks you in the face and all you can do is get back up bucktoothed and smiling.
+Today was one of those days. After working from 8am to 6pm with nothing to show for it, I was ready to get out of Wayne State and back home to Facetime Madeline. My talk with her was supposed to be my day&amp;rsquo;s salvation - when all of the stress and troubles of the day would be atoned and I would have a burst of levity, laughter outside of the pressure of the VFA bubble.</description>
+    </item>
+    
+  </channel>
+</rss>

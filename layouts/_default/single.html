@@ -1,0 +1,16 @@
+<html>
+{{ partialCached "header.html" .}}
+<body class="background">
+	<div class="singleline">
+		<a href="{{.Site.BaseURL}}">2018</a> - 01 - {{ .Params.singleTitle }}
+	</div>
+	<div class="titleHolder">
+		<h1 class="siteTitle"><a href="{{.Site.BaseURL}}">Weekly Chan Times</span></a></h1>
+	</div>
+	<div class="postContent">
+		{{ with .Params.featured_image }}<img class="circleImage" src="{{ . }}">{{ end }}
+		{{ .Content }}
+	</div>
+</body>
+{{ partialCached "footer.html" .}}
+</html>
