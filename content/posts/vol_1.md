@@ -2,7 +2,8 @@
 Title: The ChanTimes - Vol. 1
 SingleTitle: Volume 1
 subtitle: Car Wrecks and Mood Swings
-date: 6/28/2018
+date: 6/24/2018
+postTime: June 24th to 30th, 2018
 weight: 0
 featured_image: ../../images/fuji_square.jpg
 ---

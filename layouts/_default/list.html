@@ -12,7 +12,8 @@
 					<!-- small CSS geometric icon here -->
 					<i class="fa fa-angle-double-up" style="font-size: 20px; padding: 5px;"></i><br>
 					<a class="postWeight" href="{{.URL}}"><00{{ .Weight }}></a>
-					<p class="postTitle">{{ .Title }}</p>
+					<p class="subtitle">"{{ .Params.subtitle }}"</p>
+					<p class="postTime">{{ .Params.postTime }}</p>
 				</li>
 			{{ end }}
 	</div>
