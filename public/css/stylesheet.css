@@ -168,3 +168,17 @@ a.postWeight:hover {
 	padding-top: 20px;
 }
 
+/* Portrait */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px)
+  and (orientation: portrait) { 
+	body, html {
+		width: 100vw;
+	} 
+
+	.postContent {
+		padding: 0px 20px;
+	}
+}
+
