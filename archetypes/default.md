@@ -1,6 +1,11 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: ""
 date: {{ .Date }}
-draft: true
+Title: The ChanTimes - Vol. ""
+SingleTitle: ""
+subtitle: ""
+postTime: ""
+weight: ""
+featured_image: ../../images/fuji_square.jpg
 ---
 
