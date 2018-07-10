@@ -8,7 +8,7 @@
 		<h1 class="siteTitle"><a href="{{.Site.BaseURL}}">Weekly Chan Times</span></a></h1>
 	</div>
 	<div class="postContent">
-		{{ with .Params.featured_image }}<img class="circleImage" src="{{ . }}">{{ end }}
+		{{ with .Params.featured_image }}<a href="https://chandlercollins.com" title="Chandler Collins Personal Site"><img class="circleImage" src="{{ . }}" alt="Portrait of Chandler Collins"></a>{{ end }}
 		{{ .Content }}
 	</div>
 </body>

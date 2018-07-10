@@ -33,7 +33,7 @@ h1 {
 }
 
 h1 + h2 {
-	margin-top: -20px;
+	margin-top: -30px;
 }
 
 h2 {
@@ -144,6 +144,7 @@ footer > p {
 .subheading {
 	text-align: center;
 	font-size: 1.2em;
+	color: #222;
 }
 
 .highlight {
@@ -151,11 +152,20 @@ footer > p {
 	color; #333;
 }
 
+a.postWeight {
+	font-weight: 800;
+	letter-spacing: 1.1;
+}
+
 a.postWeight:hover {
 	transition: 0.3s;
 	opacity: 0.8;
 	background-color: #F8F000;
-	letter-spacing: 1.1;
+	letter-spacing: 1.3;
+}
+
+p.subtitle {
+	color: #666;
 }
 
 #post {
