@@ -152,6 +152,19 @@ footer > p {
 	color; #333;
 }
 
+.fa-angle-double-up {
+	animation-timing-function: ease-in-out;
+	transition: 0.4s;
+}
+
+.fa-angle-double-up:hover {
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
 a.postWeight {
 	font-weight: 800;
 	letter-spacing: 1.1;
