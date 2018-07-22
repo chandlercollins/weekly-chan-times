@@ -83,6 +83,10 @@ p {
 	color: #555;
 }
 
+p > a:hover {
+	border-bottom: 2px solid #F8F000;
+}
+
 footer > p {
 	text-align: center;
 	opacity: 0.5;

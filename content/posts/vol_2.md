@@ -2,9 +2,9 @@
 Title: The ChanTimes - Vol. 2
 SingleTitle: Volume 2
 subtitle: In Search of Negative Space
-date: 7/1/2018
+Date: 7/1/2018
 postTime: July 1st to 8th, 2018
-weight: 01
+Weight: 01
 featured_image: ../../images/fuji_square.jpg
 ---
 

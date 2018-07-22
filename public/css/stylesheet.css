@@ -83,6 +83,10 @@ p {
 	color: #555;
 }
 
+p > a:hover {
+	border-bottom: 2px solid #F8F000;
+}
+
 footer > p {
 	text-align: center;
 	opacity: 0.5;
@@ -150,6 +154,19 @@ footer > p {
 .highlight {
 	background-color: #F8F000;
 	color; #333;
+}
+
+.fa-angle-double-up {
+	animation-timing-function: ease-in-out;
+	transition: 0.4s;
+}
+
+.fa-angle-double-up:hover {
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
 }
 
 a.postWeight {
